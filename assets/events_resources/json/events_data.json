@@ -1,0 +1,112 @@
+[
+    {
+        "eventId": "EVENT_0000",
+        "eventTitle": "WorldSkills Competition 2022 Special Edition",
+        "eventText": "This year, 61 international skill competitions will take place across Europe, North America, and East Asia from September to November 2022.",
+        "eventReadStatus": false,
+        "eventPictures": [
+            "events_00_A.jpg",
+            "events_00_B.jpg",
+            "events_00_C.jpg"
+        ]
+    },
+    {
+        "eventId": "EVENT_0001",
+        "eventTitle": "A unique format for international skill competitions",
+        "eventText": "WorldSkills is preparing a unique format for international skill competitions in 2022, showcasing 61 skills in 15 different countries and regions around the world. WorldSkills Competition 2022 Special Edition (WSC2022SE) is the official replacement for WorldSkills Shanghai 2022, cancelled in May due to the pandemic.",
+        "eventReadStatus": false,
+        "eventPictures": [
+            "events_01_A.jpg",
+            "events_01_B.jpg",
+            "events_01_C.jpg"
+        ]
+    },
+    {
+        "eventId": "EVENT_0002",
+        "eventTitle": "Thanks to partners",
+        "eventText": "Thanks to the commitment of Partners and 15 Member countries and regions organizing the individual skill competitions, the dates and cities have been set. The 61 skill competitions will be held over 12 weeks, starting 7 September and ending 26 November 2022.",
+        "eventReadStatus": false,
+        "eventPictures": [
+            "events_02_A.jpg",
+            "events_02_B.jpg",
+            "events_02_C.jpg"
+        ]
+    },
+    {
+        "eventId": "EVENT_0003",
+        "eventTitle": "The countries and regions hosting skill competitions",
+        "eventText": "The countries and regions hosting skill competitions for WorldSkills Competition 2022 Special Edition are:\n·Austria\n·Canada\n·Denmark\n·Estonia\n·Finland\n·France\n·Germany\n·South Tyrol, Italy\n·Japan\n·Korea\n·Luxembourg\n·Sweden\n·Switzerland\n·United Kingdom\n·United States of America",
+        "eventReadStatus": false,
+        "eventPictures": [
+            "events_03_A.jpg",
+            "events_03_B.jpg",
+            "events_03_C.jpg"
+        ]
+    },
+    {
+        "eventId": "EVENT_0004",
+        "eventTitle": "A unforgettable Competition",
+        "eventText": "Over 1,000 Competitors from 58 countries and regions will participate in WorldSkills Competition 2022 Special Edition. These events reestablish the biennial cycle of WorldSkills Competitions, disrupted due to the pandemic. Ongoing monitoring of local and global pandemic controls will be incorporated into health and safety protocols for each skill competition.",
+        "eventReadStatus": false,
+        "eventPictures": [
+            "events_04_A.jpg",
+            "events_04_B.jpg",
+            "events_04_C.jpg"
+        ]
+    },
+    {
+        "eventId": "EVENT_0005",
+        "eventTitle": "Competition will be held in Bordeaux, France",
+        "eventText": "Competition will be held in Bordeaux, France on 19—22 October 2022. It will hold Skills: Digital Construction, Health and Social Care, Mechanical Engineering CAD, Mobile Robotics, Plastering and Drywall Systems",
+        "eventReadStatus": false,
+        "eventPictures": [
+            "events_05_A.jpg",
+            "events_05_B.jpg",
+            "events_05_C.jpg"
+        ]
+    },
+    {
+        "eventId": "EVENT_0006",
+        "eventTitle": "Competition will be held in Goyang, Korea",
+        "eventText": "Competition will be held in Goyang, Korea on 13—16 October 2022. It will hold Skills: 3D Digital Game Art, Cloud Computing, Cyber Security, IT Network Systems Administration, IT Software Solutions for Business, Mobile Applications Development, Plastic Die Engineering, Web Technologies.",
+        "eventReadStatus": false,
+        "eventPictures": [
+            "events_06_A.jpg",
+            "events_06_B.jpg",
+            "events_06_C.jpg"
+        ]
+    },
+    {
+        "eventId": "EVENT_0007",
+        "eventTitle": "WorldSkills history",
+        "eventText": "The Competition moves from Kazan, Russia and then to Shanghai, China, but the WorldSkills movement has become much more than an international competition. The organisation is helping young people around the world change their lives through vocational skills.",
+        "eventReadStatus": false,
+        "eventPictures": [
+            "events_07_A.jpg",
+            "events_07_B.jpg",
+            "events_07_C.jpg"
+        ]
+    },
+    {
+        "eventId": "EVENT_0008",
+        "eventTitle": "Competition will be held in Salzburg, Austria",
+        "eventText": "Competition will be held in Salzburg, Austria on 24—26 November 2022. It will hold Skills:  Bricklaying, Chemical Laboratory Technology, Concrete Construction Work, Electrical Installations, Freight Forwarding, Heavy Vehicle Technology, Industrial Control.",
+        "eventReadStatus": false,
+        "eventPictures": [
+            "events_08_A.jpg",
+            "events_08_B.jpg",
+            "events_08_C.jpg"
+        ]
+    },
+    {
+        "eventId": "EVENT_0009",
+        "eventTitle": "Sponsorship and Partnership",
+        "eventText": "Under the framework of WorldSkills Sponsorship and Partnership, we will develop a comprehensive sponsorship strategy.",
+        "eventReadStatus": true,
+        "eventPictures": [
+            "events_09_A.jpg",
+            "events_09_B.jpg",
+            "events_09_C.jpg"
+        ]
+    }
+]
